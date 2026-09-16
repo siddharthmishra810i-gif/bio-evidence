@@ -1,0 +1,6 @@
+{
+  "name": "BioEvidence",
+  "description": "Evidence-first biomedical knowledge explorer connecting drugs, genes, diseases, and scientific literature with transparent source provenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
